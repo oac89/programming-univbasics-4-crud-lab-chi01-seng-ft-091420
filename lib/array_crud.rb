@@ -19,5 +19,13 @@ def remove_element_from_end_of_array(array)
   
 end
 
+def remove_element_from_start_of_array(array)
+  element = array.shift 
+end
+
+def retrieve_element_from_index(array , element)
+  retrieve_element_from_index[]
+end   
+
 
 
