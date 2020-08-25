@@ -24,21 +24,21 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array , element)
-  retrieve_element_from_index[element]
+  array[]
   
 end 
 
 def retrieve_first_element_from_array(array)
-    retrieve_first_element_from_array[0]
+    array[0]
 
 end
 
 def retrieve_last_element_from_array(array)
-  retrieve_last_element_from_array[-1]
+  array[-1]
 end
 
 def update_element_from_index(array, index, element)
-  update_element_from_index[] = element
+  array[] = element
 
 end   
 
