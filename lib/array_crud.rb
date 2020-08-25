@@ -7,7 +7,7 @@ end
 
 def add_element_to_end_of_array(array , element)
       ##colors_arr = ["red", "blue"]
-      colors_arr << "element"
+      add_element_to_end_of_array << "element"
 end 
 
 
