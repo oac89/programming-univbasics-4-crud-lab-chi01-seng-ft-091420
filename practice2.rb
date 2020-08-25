@@ -1,7 +1,7 @@
-def add_element_to_end( array, element)
+def add_element_to_end = [( array)]
   puts {array}
-  puts add_element_to_end_of_array.push(#{"element"})  
+  
 
 end 
-add_element_to_end ("['red', 'blue']",  "yellow")
-end
+add_element_to_end ("['red', 'blue']")
+
