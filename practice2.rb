@@ -1,5 +1,5 @@
-def add_element_to_end (array, element)
-  puts array
+def add_element_to_end( array, element)
+  puts {array{}
   puts add_element_to_end_of_array.push("element")  
 
 end 
