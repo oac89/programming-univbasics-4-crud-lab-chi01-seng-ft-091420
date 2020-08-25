@@ -10,5 +10,5 @@ def add_element_to_end_of_array(array , element)
       colors_arr << "green"
 end 
 
-add_element_to_end_of_array("['red', 'blue']" , "yellow" )
+
 
